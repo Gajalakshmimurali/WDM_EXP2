@@ -1,6 +1,6 @@
 ### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
 ### DATE:25.07.20226
-### NAME:GAJALAKSHMI M
+### NAME:GAJALAKSHMI M 
 ### REGISTER NUMBER:212224100016 
 ### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
